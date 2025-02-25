@@ -1,2 +1,3 @@
 DOMAIN,gsx2.apple.com
 DOMAIN,diagnostics.apple.com
+IP-CIDR,17.0.0.0/8,no-resolve
